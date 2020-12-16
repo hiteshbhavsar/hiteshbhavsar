@@ -7,7 +7,7 @@ I'm Hitesh from India and I do web development :atom:. I really enjoy learing ne
 
 ### I am a student :student: , teacher :man_teacher: and Developer :atom:
 
-- 🌱 I’m currently learning everything 🤣 -> React.js :focus:
+- 🌱 I’m currently learning everything 🤣 -> React.js <img align="left" alt="React" width="12px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> 🎯
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch  :tv: movie and play :video_game:
 - 📫 How to reach me: Let's connect! Find me on the web.
