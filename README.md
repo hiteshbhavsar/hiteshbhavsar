@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
 
-I'm Hitesh from India :india: and I do web development. I really enjoy learing new languages and technologies. Currently I am learning React.js. And I have a 2+ years experience in working with .Net framework
+I'm Hitesh from India and I do web development :atom:. I really enjoy learing new languages and technologies. Currently I am learning React.js. And I have a 2+ years experience in working with .Net framework
 
 <!--<p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>-->
