@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 :man_technologist:
 
 I'm Hitesh from India :india: and I do web development. I really enjoy learing new languages and technologies. Currently I am learning React.js. And I have a 2+ years experience in working with .Net framework
 
@@ -10,7 +10,7 @@ I'm Hitesh from India :india: and I do web development. I really enjoy learing n
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: Let's connect! Find me on the web.
-<p align="center">
+<p align="center"></p>
 - ⚡ Fun fact: I love to watch  :tv: movie and play :video_game:
 
 <!--
