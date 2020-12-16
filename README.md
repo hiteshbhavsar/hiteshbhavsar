@@ -9,6 +9,8 @@ I'm Hitesh from India :india: and I do web development. I really enjoy learing n
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 📫 How to reach me: Let's connect! Find me on the web.
+<p align="center">
 - ⚡ Fun fact: I love to watch  :tv: movie and play :video_game:
 
 <!--
