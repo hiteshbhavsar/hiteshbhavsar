@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
 
-I'm Hitesh from India and I do web development :atom:. I really enjoy learing new languages and technologies. And I have a 2+ years experience in working with .Net framework
+I'm Hitesh !! I do web development :atom:. I really enjoy learing new languages and technologies. And I have a 2+ years experience in working with .Net framework
 
 <!--<p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>-->
@@ -8,7 +8,7 @@ I'm Hitesh from India and I do web development :atom:. I really enjoy learing ne
 ### I am a student :student: , teacher :man_teacher: and Developer :atom:
 
 - 🌱 I’m currently learning  React.js,MongoDB,ExpressJS 🎯
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch  :tv: movie and play :video_game:
 - 📫 How to reach me: Let's connect! Find me on the web.
 <!--<p align="center"> </p>-->
