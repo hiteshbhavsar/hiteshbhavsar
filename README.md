@@ -10,9 +10,9 @@ I'm Hitesh !! I do web development :atom:. I really enjoy learing new languages 
 - 🌱 I’m currently learning  React.js,MongoDB,ExpressJS 🎯
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch  :tv: movie and play :video_game:
-- 📫 How to reach me: Let's connect! Find me on the web.
+- 📫 How to reach me: Let's connect! Find me on the web.<br/>
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hitesh-bhavsar-096)
-[<img height="30" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram" />](https://www.instagram.com/hiteshbhavsar008)
+[<img height="30" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hiteshbhavsar008)
 <!--<p align="center"> </p>-->
 ### Languages and Tools:
 
