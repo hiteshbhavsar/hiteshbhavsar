@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/hiteshbhavsar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshbhavsar&hide=css,html&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshbhavsar&hide=css,html&layout=compact" />
 </a>
 <a href="https://github.com/hiteshbhavsar">
-  <img align="center" alt="Hitesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide_border=true" />
+  <img align="right" alt="Hitesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide_border=true" />
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide=issues,contribs" /> -->
 </a>
