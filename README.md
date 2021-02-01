@@ -44,9 +44,18 @@ Here are some ideas to get you started:
 -->
 
 &nbsp;
-<details>
+
+<!--<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Hitesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide_border=true" />
+ <!-- <img align="left" alt="Hitesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide_border=true" /> -->
 
-</details
+<!--</details
+-->
+
+<a href="https://github.com/neerazz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshbhavsar&hide=css,html&layout=compact" />
+</a>
+<a href="https://github.com/neerazz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide=issues,contribs" />
+</a>
