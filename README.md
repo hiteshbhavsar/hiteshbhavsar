@@ -4,9 +4,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I am Hitesh  
 <ul>
   <!--<li>I'm Hitesh !! </li>-->
-  <li>I do web development :atom:</li>
-  <li>I really enjoy learning new languages and technologies. </li>
-  <li>I have a 2+ years experience in working with .Net framework</li>
+  <li>I am a Web Developor :atom:</li>
+  <li>I <i>Love learning</i> new languages and technologies. </li>
+  <li>I have a 2+ years experience in working with <b>.Net</b> framework</li>
 </ul>
 <!--<p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>-->
