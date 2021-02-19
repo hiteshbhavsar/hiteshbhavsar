@@ -4,7 +4,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I am Hitesh  
 <ul>
   <!--<li>I'm Hitesh !! </li>-->
-  <li>I am a Web Developer :atom:</li>
+  <li>I am a <b>Web<b> Developer :atom:</li>
   <li>I <i>Love learning</i> new languages and technologies. </li>
   <li>I have a 2+ years experience in working with <b>.Net</b> framework</li>
 </ul>
