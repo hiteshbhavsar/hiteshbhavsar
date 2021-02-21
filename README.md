@@ -16,11 +16,11 @@
 - 🌱 I’m currently learning  React.js, MongoDB, ExpressJS 🎯
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch  :tv: movie and play :video_game:
-- 📫 How to reach me: Let's connect! Find me on the web. <p align="center">[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hitesh-bhavsar-096)
-<a href="mailto:hitesh11oct@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a></p>
+- 📫 How to reach me: Let's connect! Find me on the web. 
 <!--<br/><br/>-->
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hitesh-bhavsar-096)
+<a href="mailto:hitesh11oct@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<!--<p align="center"> </p>-->
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 <!--</details
 -->
+## &#x1f4c8; GitHub Stats
 ![](https://komarev.com/ghpvc/?username=hiteshbhavsar)
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide_border=true&theme=highcontrast" width="48%" >-->
 <p style="display:flex">
