@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 <!--</details
 -->
+<img  src="https://github-readme-stats.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide_border=true&theme=highcontrast" width="48%" >
 <p style="display:flex">
 <a href="https://github.com/hiteshbhavsar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshbhavsar&hide=css,html&layout=compact" />
