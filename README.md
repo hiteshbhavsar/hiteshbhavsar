@@ -51,8 +51,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&nbsp;
-
 <!--<details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -60,8 +58,6 @@ Here are some ideas to get you started:
 
 <!--</details
 -->
-<br/>
-<br/>
 ## &#x1f4c8; GitHub Stats
 ![](https://komarev.com/ghpvc/?username=hiteshbhavsar)
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide_border=true&theme=highcontrast" width="48%" >-->
