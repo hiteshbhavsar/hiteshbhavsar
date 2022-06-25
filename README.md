@@ -1,6 +1,6 @@
 
 
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> , I am Hitesh  
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> , I am Hitesh  
 
 <img align='right' src="https://qph.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8" />
 
