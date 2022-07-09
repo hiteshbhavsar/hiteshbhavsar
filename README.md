@@ -27,8 +27,8 @@ find more images on google for the same
 
 ### I am a student :student: , teacher :man_teacher: and Developer :atom:
 
-- 🌱 I’m currently learning  React.js, MongoDB, ExpressJS 🎯
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning  MongoDB, Docker,AWS 🎯
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch  :tv: movie and play :video_game:
 - 📫 How to reach me: Let's connect! Find me on the web. 
 <!--<br/><br/>-->
