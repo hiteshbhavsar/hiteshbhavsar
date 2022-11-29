@@ -81,4 +81,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Hitesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide_border=false" /> -->
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide=issues,contribs" />  </a>-->
 
+[![Hitesh's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hiteshbhavsar&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 </p>
