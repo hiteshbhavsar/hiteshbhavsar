@@ -70,16 +70,17 @@ Here are some ideas to get you started:
 
 <!--</details
 -->
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Leetcode Stats
 ![](https://komarev.com/ghpvc/?username=hiteshbhavsar)
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide_border=true&theme=highcontrast" width="48%" >-->
 <p style="display:flex">
-<a href="https://github.com/hiteshbhavsar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshbhavsar&hide=css,html&layout=compact" />
-</a>
+<!--<a href="https://github.com/hiteshbhavsar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbhavsar389&hide=css,html&layout=compact" />
+</a>-->
+[![Hitesh's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hbhavsar389&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 <!--<a href="https://github.com/hiteshbhavsar">
   <img align="center" alt="Hitesh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide_border=false" /> -->
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiteshbhavsar&show_icons=true&hide=issues,contribs" />  </a>-->
 
-[![Hitesh's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hbhavsar389&theme=Dark)](https://github.com/hiteshbhavsar/leetcode-stats)
+
 </p>
